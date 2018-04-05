@@ -32,6 +32,7 @@
     "eslint-plugin-babel": "^3.2.0",
     "eslint-plugin-react": "^5.0.1",
     "express": "^4.13.4",
+    "pug": "^2.0.3",
     "raven-js": "^2.3.0",
     "react": "^15.0.2",
     "react-addons-css-transition-group": "^15.0.2",
@@ -52,6 +53,7 @@
     "webpack-hot-middleware": "^2.10.0"
   },
   "devDependencies": {
+    "babel-preset-env": "^1.6.1",
     "expect": "^1.18.0",
     "expect-jsx": "^2.5.1",
     "mocha": "^2.4.5",
